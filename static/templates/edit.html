@@ -1,0 +1,13 @@
+<form action="/home" method="post">
+
+    <label for="Title">Title:</label><br>
+    <input class="mb-2" type="text" id="Title" name="Title"><br>
+
+    <label for="Body">Body:</label><br>
+    <textarea class="mb-2" id="Body" name="Body"></textarea><br>
+
+    <label for="Author">Author:</label><br>
+    <input class="mb-2" type="text" id="Author" name="Author" value="{{ .Author }}"><br>
+
+    <button class="mb-2" type="submit">Add Note</button>
+</form>

@@ -1,0 +1,23 @@
+[
+  {
+    "id": "1",
+    "title": "Hello World",
+    "body": "Hello World",
+    "author": "John Doe",
+    "lastUpdated": "Jan 2 15:04:05 2008 MST"
+  },
+  {
+    "id": "2",
+    "title": "Hello World",
+    "body": "Lorum Ipsum",
+    "author": "James Smith",
+    "lastUpdated": "Jan 2 15:04:05 2006 MST"
+  },
+  {
+    "id": "3",
+    "title": "Hello World",
+    "body": "Weddings are expensive",
+    "author": "Ian Broyles",
+    "lastUpdated": "Jan 2 15:04:05 2024 MST"
+  }
+]
